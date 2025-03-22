@@ -46,5 +46,4 @@ def read_events():
             elif len(line) == 1:
                 pos += 1
 
-# Open the file and read from the specified position
 read_events()
